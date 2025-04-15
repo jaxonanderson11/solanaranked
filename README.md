@@ -3,7 +3,8 @@
 
 A Chrome extension that detects Solana wallet addresses across websites, calculates trading performance with a gaming-inspired ranking system, and displays ranking badges next to addresses.
 
-![Solana Wallet Rankings Banner](https://via.placeholder.com/800x200?text=Solana+Wallet+Rankings)
+![Solana Ranked (1)](https://github.com/user-attachments/assets/c54a6aad-9b1e-4e60-99da-6922315db904)
+
 
 ## 🚀 Features
 
