@@ -37,13 +37,6 @@ We've implemented a game-inspired ranking system to visualize trading performanc
 2. Click "Add to Chrome"
 3. Confirm the installation
 
-### Manual Installation (Developer Mode)
-1. Download this repository or clone it: `git clone https://github.com/yourusername/solana-wallet-ranking.git`
-2. Open Chrome and navigate to `chrome://extensions/`
-3. Enable "Developer mode" in the top-right corner
-4. Click "Load unpacked" and select the project folder
-5. The extension should now appear in your extensions list
-
 ## 💻 Usage
 
 ### Viewing Wallet Rankings
